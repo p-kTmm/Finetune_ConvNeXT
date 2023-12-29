@@ -18,5 +18,5 @@ To run the notebook:
 # Dataset
 
 Describe the dataset used in the project. Include details like source, nature of images, and how to access or download it.
-('https://madm.dfki.de/files/sentinel/EuroSAT.zip')
+Dataset: 'https://madm.dfki.de/files/sentinel/EuroSAT.zip'
 
